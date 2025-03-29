@@ -103,7 +103,7 @@ item(FEAT_TRAINS, temu1000) {
 
         speed:                        131 km/h;
         track_type:                   NABE;
-        power:                        380 kW;
+        power:                        3040 kW;
         weight:                       40 ton;
 
         climates_available:           ALL_CLIMATES;
