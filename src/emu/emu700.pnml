@@ -202,7 +202,7 @@ item(FEAT_TRAINS, emu700) {
 
         speed:                        111 km/h;
         track_type:                   NABE;
-        power:                        480 kW;
+        power:                        3840 kW;
         weight:                       40 ton;
 
         climates_available:           ALL_CLIMATES;
